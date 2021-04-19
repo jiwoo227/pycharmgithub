@@ -6,7 +6,7 @@ list1 = [10, 20, 30, 40, 50]
 # list1에 있는 값이 변하는 것은 아니다.
 
 for a in list1:
-   a += 1
+   a+=1
 
 
 print(a)
